@@ -6,4 +6,4 @@ github_username: ColdView
 
 # Build Settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
