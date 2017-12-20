@@ -1,2 +1,9 @@
-name: Cold View Blog
+# Basic Settings
+name: ColdView Blog
+author: ColdView
+twitter_username: coldviewsec
+github_username: ColdView
+
+# Build Settings
 markdown: kramdown
+theme: minima
